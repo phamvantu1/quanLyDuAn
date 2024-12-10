@@ -1,0 +1,22 @@
+thêm activity đảm bảo chất lượng phần mềm
+
+ngoài chg trình source code thì phải review , 
+
+manage quality /
+
+định nghĩa về chất lượng : đáp ứng tất cả yêu cầu ban đầu là đc
+
+bổ sung thêm review hoạt động đặc tả ...
+
+
+
+tiêu chí chất lg
+vai trò , trách nghiệm
+
+nếu có lỗi thì giao tiếp với đội dự án như nào
+tool nào để kiểm soát chất lượng
+
+sau thiết kế phải có review 
+
+
+

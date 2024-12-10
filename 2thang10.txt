@@ -1,0 +1,33 @@
+tỷ lệ hài lòng của KH trên 90 là ko thể làm đc vì xong rồi mới khảo sát được
+
+quanlity standard thì hạn chế dùng tính từ
+chuẩn nào , iso bao nhiêu
+
+thế nào là dễ bào trì
+cập nhập trong 24h
+sửa lỗi trong 3h
+
+role ko được cho người dùng vào
+
+thế lập kế hoạch chất lượng ai làm
+
+ai làm test nữa
+
+quy trình process phải có test , rv tài liệu
+
+
+approach thì kĩ thuật test nào em dùng, test tay hay test tự động
+
+lập chiến lược chạy test như nào , chạy đến đâu báo đến  đấy, báo như  nào bằng mồm
+bao lâu em báo dev sửa, 
+
+appli process 
+
+
+quản lý con người 
+
+mânage tập chung vào coong việc
+leader tập chuing vào con người 
+
+
+
